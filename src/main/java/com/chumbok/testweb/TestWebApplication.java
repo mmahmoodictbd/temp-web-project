@@ -1,12 +1,12 @@
-package com.chumbok;
+package com.chumbok.testweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RecaptchaApplication {
+public class TestWebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RecaptchaApplication.class, args);
+		SpringApplication.run(TestWebApplication.class, args);
 	}
 }

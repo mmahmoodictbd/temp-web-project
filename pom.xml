@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.chumbok</groupId>
-	<artifactId>recaptcha</artifactId>
+	<artifactId>testweb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>recaptcha</name>
-	<description>Demo project for Spring Boot</description>
+	<name>testweb</name>
+	<description>Web project to test web technologies</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

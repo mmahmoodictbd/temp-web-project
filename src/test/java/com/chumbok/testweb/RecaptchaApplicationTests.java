@@ -1,4 +1,4 @@
-package com.chumbok;
+package com.chumbok.testweb;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
